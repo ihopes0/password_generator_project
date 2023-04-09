@@ -8,4 +8,4 @@ Open the password_generator.py file by CMD and follow the steps:
 3) Decide countinue or not
 4) Check your password(s) in the file
 
-I will improve that code later on, also I wanna make some user-friendly interface for it, so it can be a real project. 
+I will improve this code later on, also I wanna make some user-friendly interface for it, so it can be a real project. 
